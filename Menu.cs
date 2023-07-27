@@ -49,6 +49,8 @@ namespace Calculator.Menu
 
                 case 14: FunctionTotalMedia.TotalMedia(); break;
 
+                case 15: FunctionSqrt.Sqrt(); break;
+
                 case 100: System.Environment.Exit(0); break;
 
                 default: Menu(); break;
@@ -77,6 +79,7 @@ namespace Calculator.Menu
                 Console.WriteLine("12 - Consumo de gasolina");
                 Console.WriteLine("13 - Tabuada");
                 Console.WriteLine("14 - Media Final");
+                Console.WriteLine("15 - Raíz Quadrada");
                 Console.WriteLine("100 - Sair");
 
             }

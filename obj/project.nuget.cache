@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N33yCjUJtIyQFWGIyHx/WdARcxFlWcD2V+NIcaBNkK8rVqq9GnpRQ3C7h1L38JdW6652N8/iBm5p1byuVeyxBQ==",
+  "dgSpecHash": "HtamLjhPDFuE9FqCvyoa61b0/FD/t67OFB6GlE1verBkhbVmUgBAm2pPwp7C1ux2JuhEGSqRltU9O4WFra8v6g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luizg\\PrimeiroApp\\Calculator.csproj",
+  "projectFilePath": "C:\\Users\\luizg\\CalcApp\\Calculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
