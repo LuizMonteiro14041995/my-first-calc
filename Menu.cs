@@ -80,6 +80,7 @@ namespace Calculator.Menu
                 Console.WriteLine("13 - Tabuada");
                 Console.WriteLine("14 - Media Final");
                 Console.WriteLine("15 - Raíz Quadrada");
+                Console.WriteLine("16 - Teste de commit");
                 Console.WriteLine("100 - Sair");
 
             }
